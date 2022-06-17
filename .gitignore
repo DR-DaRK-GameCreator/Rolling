@@ -87,3 +87,6 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+
+# Infinity Blade Effects content.  No need for them to be saved on GitHub as when I am done, will delete this from GitHub.
+Content/InfinityBladeEffects/
